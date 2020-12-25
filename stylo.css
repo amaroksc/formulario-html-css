@@ -14,4 +14,7 @@ input[type=text]{
     color: white;
     text-align: center;
   }
+  ::placeholder{
+    color :white;
+  }
  
