@@ -7,3 +7,11 @@ input[type=text]{
   color: white;
   
   }
+  textarea{
+    width: 100%;
+    border-radius: 5px;
+    background-color:darkcyan ;
+    color: white;
+    text-align: center;
+  }
+ 
