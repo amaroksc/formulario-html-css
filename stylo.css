@@ -1,1 +1,9 @@
 /*Template Main CSS File*/
+input[type=text]{
+    width: 100%;
+  border: 2px solid rgb(0, 110, 110);
+  border-radius: 5px;
+  background-color: darkcyan;
+  color: white;
+  
+  }
